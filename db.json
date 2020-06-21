@@ -1,0 +1,32 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "hard drived fixedqsqsqsqs",
+      "attention": true,
+      "tech": "Aayushi",
+      "date": "2020-06-21T03:22:47.243Z"
+    },
+    {
+      "message": " Water Leaking",
+      "tech": "Sandeep",
+      "attention": false,
+      "date": "2020-06-19T10:40:51.682Z",
+      "id": 2
+    },
+    {
+      "message": " asas",
+      "tech": "Dhrumil  Parikh",
+      "attention": false,
+      "date": "2020-06-21T03:22:31.982Z",
+      "id": 3
+    }
+  ],
+  "techs": [
+    {
+      "firstName": "Dhrumil",
+      "lastName": " Parikh",
+      "id": 1
+    }
+  ]
+}
